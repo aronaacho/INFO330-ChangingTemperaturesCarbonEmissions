@@ -1,6 +1,6 @@
 ﻿name,region
 Afghanistan,Asia
-Åland Islands,Europe
+,
 Albania,Europe
 Algeria,Africa
 American Samoa,Oceania
@@ -21,16 +21,18 @@ Bangladesh,Asia
 Barbados,South America
 Belarus,Europe
 Belgium,Europe
+Belgium-Luxembourg,Europe
 Belize,South America
 Benin,Africa
 Bermuda,South America
 Bhutan,Asia
-Bolivia,South America
+Bolivia (Plurinational State of),South America
 "Bonaire, Sint Eustatius and Saba",South America
-Bosnia And Herzegovina,Europe
+Bosnia and Herzegovina,Europe
 Botswana,Africa
 Bouvet Island,South America
 Brazil,South America
+British Virgin Islands,North America
 British Indian Ocean Territory,Africa
 Brunei Darussalam,Asia
 Bulgaria,Europe
@@ -43,14 +45,19 @@ Canada,North America
 Cayman Islands,South America
 Central African Republic,Africa
 Chad,Africa
+Channel Islands,Europe
 Chile,South America
 China,Asia
+"China, Hong Kong SAR",Asia
+"China, Macao SAR",Asia
+"China, mainland",Asia
+"China, Taiwan Province of",Asia
 Christmas Island,Oceania
 Cocos (Keeling) Islands,Oceania
 Colombia,South America
 Comoros,Africa
 Congo,Africa
-Congo (Democratic Republic Of The),Africa
+Congo,Africa
 Cook Islands,Oceania
 Costa Rica,South America
 Côte D'Ivoire,Africa
@@ -58,7 +65,10 @@ Croatia,Europe
 Cuba,South America
 Curaçao,South America
 Cyprus,Asia
-Czech Republic,Europe
+Czechia,Europe
+Czechoslovakia,Europe
+Democratic People's Republic of Korea,Asia
+Democratic Republic of the Congo,Africa
 Denmark,Europe
 Djibouti,Africa
 Dominica,South America
@@ -234,12 +244,12 @@ Uganda,Africa
 Ukraine,Europe
 United Arab Emirates,Asia
 United Kingdom,Europe
-United States,North America
+United States of America,North America
 Uruguay,South America
 Uzbekistan,Asia
 Vanuatu,Oceania
 Venezuela,South America
-Vietnam,Asia
+Viet Nam,Asia
 Virgin Islands (British),North America
 Wallis and Futuna,Oceania
 Western Sahara,Africa
