@@ -1,0 +1,11 @@
+country_id,country,MIN(Y2000)
+8,Antarctica,-0.778
+30,Botswana,-0.494
+266,Zimbabwe,-0.302
+149,"Marshall Islands",-0.284
+47,Chile,-0.262
+10,Argentina,-0.219
+80,Eswatini,-0.154
+176,"Norfolk Island",-0.064
+60,"Costa Rica",-0.055
+155,"Micronesia (Federated States of)",-0.008
