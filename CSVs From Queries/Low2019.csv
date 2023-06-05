@@ -1,0 +1,11 @@
+country_id,country,MIN(Y2019)
+224,"South Georgia and the South Sandwich Islands",0.082
+206,"Saint Pierre and Miquelon",0.275
+149,"Marshall Islands",0.42
+47,Chile,0.46
+182,Pakistan,0.473
+59,"Cook Islands",0.514
+155,"Micronesia (Federated States of)",0.524
+167,Nepal,0.6
+53,"Christmas Island",0.61
+8,Antarctica,0.615
