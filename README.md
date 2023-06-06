@@ -1,8 +1,7 @@
-This is a readme!
+# *__Hello, We are the Green Team!__*
 
-Presentation Link: https://docs.google.com/presentation/d/1zHhFEg4yvbISxpysYv8eX6amgNPmsmGa5P2Qvm4dKPQ/edit?usp=sharing
 
-Please find the following information in the folders:
+### __Please find the following information in the folders:__
 
 * Queries: Contains the queries in folders name with each group members names
         (examples:
@@ -13,3 +12,6 @@ Please find the following information in the folders:
         )
 * CSVs from Queries: contains CSVs that were used to make visualizations
 * Visualizations: Contains the visualizations for each query (also found in presentation)
+
+________________
+### Presentation Slides Link: https://docs.google.com/presentation/d/1zHhFEg4yvbISxpysYv8eX6amgNPmsmGa5P2Qvm4dKPQ/edit?usp=sharing
