@@ -12,6 +12,9 @@
         )
 * CSVs from Queries: contains CSVs that were used to make visualizations
 * Visualizations: Contains the visualizations for each query (also found in presentation)
+* Presentation video: INFO330FinalPresentation.mp4
+* Sqlite DB in NF3: temp_emissions.sqlite
+* ERD: temp_emissions_ERD.png
 
 ________________
-### Presentation Slides Link: https://docs.google.com/presentation/d/1zHhFEg4yvbISxpysYv8eX6amgNPmsmGa5P2Qvm4dKPQ/edit?usp=sharing
+#### Presentation Slides Link: https://docs.google.com/presentation/d/1zHhFEg4yvbISxpysYv8eX6amgNPmsmGa5P2Qvm4dKPQ/edit?usp=sharing
